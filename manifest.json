@@ -1,0 +1,18 @@
+{
+  "name": "Palm Tree Kitchen - قائمة المنتجات",
+  "short_name": "Palm Tree",
+  "description": "تطبيق قائمة المنتجات مع PDF وواتساب.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f9f9f9",
+  "theme_color": "#007bff",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
